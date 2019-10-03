@@ -1,21 +1,47 @@
-# 18F Open Source Policy
+## National Water Model - 18F Path Analysis
 
-This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
+18F is partnering with the NOAA Office of Water Prediction
+an 8 week path analysis (PA) focused on understanding 
+the current and future needs of the [National Water Model](https://water.noaa.gov/about/nwm)
 
-**[Read 18F's open source policy.](policy.md)**
+By the end of this project, we aim to:
 
-### 18F Team Guidance
+1. 
+2. 
 
-For 18F team members, we have guidance on how 18F puts this policy into practice, and how we handle the narrow situations where we may delay or withhold the release of source code.
+We'll know we're successful if these outcomes:
 
-**[Read 18F's open source team practices.](practice.md)**
+1. 
+2. 
 
-### Credits
+### Team
 
-This policy was originally forked from the [Consumer Financial Protection Bureau's policy](https://github.com/cfpb/source-code-policy). Thanks also to [@benbalter](https://github.com/benbalter) for his [insights regarding CFPB's initial policy](http://ben.balter.com/2012/04/10/whats-missing-from-cfpbs-awesome-new-source-code-policy/).
+* Trey Flowers - Executive Sponsor / Director of Analysis and Prediction Division at the National Water Center (located in Tuscaloosa, Alabama) 
+* Ken Pavelle - Project Manager / National Weather Service (DC based - Silver Spring)
+* Troy Wilds - Deputy Chief of Staff at NOAA
+* Fred Ogden - Chief Scientist (should be involved in technical conversations)
+* Nels Frazier - lead software architect (our PoC for all technical conversations)
+* Andrew Dunkman - 18F Consulting Engineer (lead)
+* Peter Burkholder - 18F Consulting Engineer
+
+### Timeline
+
+| Weeks 1–2 | Weeks 3–4 | Weeks 5–6 | Weeks 7–8 |
+|-----------|-----------|-----------|-----------|
+| Kickoff<br>Plan research<br>Conduct initial research | Conduct more research<br>Discuss initial findings<br>Revise problem focus if needed<br>Mid-project check-in | Finish research<br>Analyze and discuss findings<br>Incorporate team feedback<br>Develop, discuss, prioritize recommendations | Incorporate team feedback<br>Final presentation |
 
 
-### Public domain
+### Collaboration tools
+
+- Project tasks - [Trello](https://trello.com/b/DJVFlhuX/pa-noaa-water-model)
+- Chat - Slack
+- Project documentation - GitHub
+
+## Contributing
+
+See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
+
+## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
