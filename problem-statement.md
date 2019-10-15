@@ -13,6 +13,14 @@ Read more about [building problem statements](https://medium.com/eightshapes-llc
 > about [reason] needs to [step] <br>
 > but faces [obstacle].
 
+
+At this point, we're using some problem statement phrases almost in a
+_mad-lib_ format to help us think about whose problem we'll focus on during
+our next stage; in the end, we'll need _you_ to generate the problem statement
+for the user role most important to the OWP. Some of the problem statement
+"atoms" that we have in mind are:
+ 
+
 #### A [user role]
 
 - Software engineers
@@ -42,8 +50,18 @@ Read more about [building problem statements](https://medium.com/eightshapes-llc
 
 #### But faces [obstacle]
 
-- A 6-month learning curve
+- A months-long learning curve 
 - A year of software engineering without delivering value
 - Doubts about the accuracy of flood forecast
 - No framework for regional variations
+- 
 
+### Sample problem statements
+
+
+* A software engineer who feels confounded about the code, needs to model
+  groundwater for regional Kentucky limestone karst, but faces a year of
+  software engineering without delivering value.
+* A hydrologist who feels isolated about the lack of community, needs to find people
+  working on similar hydrologic/computational problems, but faces a
+  months-long learning curve
