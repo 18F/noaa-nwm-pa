@@ -61,7 +61,7 @@ for the user role most important to the OWP. Some of the problem statement
 
 * A software engineer who feels confounded about the code, needs to model
   groundwater for regional Kentucky limestone karst, but faces a year of
-  software engineering with delivering value.
+  software engineering without delivering value.
 * A hydrologist who feels isolated about the lack of community, needs to find people
   working on similar hydrologic/computational problems, but faces a
   months-long learning curve
