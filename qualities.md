@@ -1,0 +1,22 @@
+## What should be the qualities of a new NWM? 
+
+- Operationally Stable
+  - Reliable (numerically stable)
+  - Robust (error handling)
+  - Accurate
+  - Testable (from unit to engineering testing)
+- Facilitates community development
+  - Open Source/Open Development
+- Performant/computationally efficient
+- State of the science: attractive, cutting-edge, flexible
+- Portable
+  - Cross platform (to some extent)
+  - Configurable (automatically)
+- Understandable
+  - Abstracted, well defined interfaces
+  - Modular
+- Standardized and ready-to-be-used
+  - Complete (all relevant fluxes/storages)
+  - Standardized concepts implemented
+  - Compelling (not reliant on non-standard empiricism)
+  - Extensible
