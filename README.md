@@ -1,14 +1,16 @@
 ## National Water Model - 18F Path Analysis
 
-18F is partnering with the NOAA Office of Water Prediction
-an 8 week path analysis (PA) focused on understanding 
-the current and future needs of the [National Water Model](https://water.noaa.gov/about/nwm).
+18F is partnering with the NOAA Office of Water Prediction on an 8 week path analysis (PA) focused on understanding the current and future needs of the [National Water Model](https://water.noaa.gov/about/nwm).
+
+### Where the project is today
 
 The National Water Model is in its infancy — it’s just celebrated its third birthday, and yet it is experiencing challenges — most namely that the current architecture limits scientific development and improvement in forecast skill.
 
 The challenge is not solving the problem of better representation of the environment (that will come later) — but rather taking lessons from the current implementation and building an infrastructure that meets our minimum requirements for success, is capable of being evolved, and is accompanied by a process that effectively governs the evolution in an effective and efficient manner.
 
 There are 24 federal agencies with their hands in water, and there is interest and enthusiasm from the wider community in improving water modeling. This project was undertaken with an eye on this wider community and the wider group of federal agencies — to engage through the planning and implementation of foundation development, scientific model development, and maintainance, encouraging persistent innovation between agencies and the public.
+
+### The path forward
 
 The path forward for the next generation NWM is an emergent architecture, developed by software engineers while continually checked and co-developed upon by scientific specialists, in the open. 
 
